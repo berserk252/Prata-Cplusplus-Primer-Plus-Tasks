@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1661813468 source:c:\users\user\desktop\armen\c++\prata\chapter 14\5\main.cpp
+	<iostream>
+	<string>
+	"5.h"
+
+1661813126 source:c:\users\user\desktop\armen\c++\prata\chapter 14\5\5.cpp
+	"5.h"
+	<iostream>
+	<string>
+
+1661808333 c:\users\user\desktop\armen\c++\prata\chapter 14\5\5.h
+	<iostream>
+	<string>
+
+1676236413 source:c:\users\user\desktop\armen\c++\prata\chapter 17\6\5\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"5.h"
+
+1676233783 c:\users\user\desktop\armen\c++\prata\chapter 17\6\5\5.h
+	<iostream>
+	<string>
+	<fstream>
+
+1676236136 source:c:\users\user\desktop\armen\c++\prata\chapter 17\6\5\5.cpp
+	"5.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<fstream>
+

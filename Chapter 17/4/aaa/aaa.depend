@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1676145491 source:c:\users\user\desktop\armen\c++\prata\chapter 17\4\aaa\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<cctype>
+	<vector>
+	<bitset>
+	<algorithm>
+
