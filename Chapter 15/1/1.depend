@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1662314812 source:c:\users\user\desktop\armen\c++\prata\chapter 15\1\tv.cpp
+	<iostream>
+	"tv.h"
+
+1662313516 c:\users\user\desktop\armen\c++\prata\chapter 15\1\tvfm.h
+
+1662314791 c:\users\user\desktop\armen\c++\prata\chapter 15\1\tv.h
+	<iostream>
+
+1301664174 source:c:\users\user\desktop\armen\c++\prata\chapter 15\1\use_tv.cpp
+	<iostream>
+	"tv.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1662391298 source:c:\users\user\desktop\armen\c++\prata\chapter 15\2\error4.cpp
+	<iostream>
+	<cmath>
+	"exc_mean.h"
+
+1662391344 c:\users\user\desktop\armen\c++\prata\chapter 15\2\exc_mean.h
+	<iostream>
+	<stdexcept>
+

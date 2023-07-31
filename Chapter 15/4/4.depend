@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1301853274 source:c:\users\user\desktop\armen\c++\prata\chapter 15\4\sales.cpp
+	"sales.h"
+
+1309540236 c:\users\user\desktop\armen\c++\prata\chapter 15\4\sales.h
+	<stdexcept>
+	<string>
+
+1309541852 source:c:\users\user\desktop\armen\c++\prata\chapter 15\4\use_sales.cpp
+	<iostream>
+	"sales.h"
+

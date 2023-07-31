@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1674421343 source:c:\users\user\desktop\armen\c++\prata\chapter 16\6\aaa\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<queue>
+
+1310316190 source:c:\users\user\desktop\armen\c++\prata\prata_examples\chapter 12\bank.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"queue.h"
+
+1300358986 c:\users\user\desktop\armen\c++\prata\prata_examples\chapter 12\queue.h
+
+1300360054 source:c:\users\user\desktop\armen\c++\prata\prata_examples\chapter 12\queue.cpp
+	"queue.h"
+	<cstdlib>
+
